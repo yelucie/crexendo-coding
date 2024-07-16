@@ -1,15 +1,14 @@
 # CREXENDO CODING ASSIGNMENT
 
-## Check out the demo here!
-https://crexendo-coding.vercel.app/
+Demo ➡️ https://crexendo-coding.vercel.app/
 
-## Installation/Running Instructions (must have Node installed)
-To get the project up and running, follow these steps:
+## Installation/Running Instructions
+To get the project up and running, you should have Node installed. Then, follow these steps:
 1. Clone the repository: https://github.com/yelucie/crexendo-coding.git
 2. Navigate to the project directory: `cd ./crexendo-coding/`
 3. Install dependencies: `npm i`
 4. Start the application: `npm run dev`
-5. Test the application: `http://localhost:3000/`
+5. Test the application: http://localhost:3000/
 
 ## Features
 - Open Modal: Click on elements to open modal dialog for viewing and editing user information.
